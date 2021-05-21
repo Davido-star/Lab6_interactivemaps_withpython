@@ -5,3 +5,5 @@ Mapping directly into a python notebook is neat and if you’re good at it, colu
 
 
 This next map uses folium to map unemployment rates in a useful choropleth manner.  
+<img width="961" alt="Screen Shot 2021-05-21 at 3 24 08 PM" src="https://user-images.githubusercontent.com/73979215/119188401-9b3fe680-ba48-11eb-8179-d560be7f4b0b.png">
+
